@@ -32,8 +32,6 @@ The project uses the **Social Media Advertisement Performance** dataset from Kag
 
 The dataset contains simulated paid-ad event data covering users, campaigns, advertisements, and interactions such as impressions, clicks, shares, comments, and purchases.
 
-> The dataset is simulated and is used to demonstrate the analysis workflow rather than represent real-world Meta advertising benchmarks.
-
 ## Tools Used
 
 - **Power BI** - Dashboard design, data modeling, and visualization
