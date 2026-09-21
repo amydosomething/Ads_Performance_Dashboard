@@ -18,11 +18,11 @@ The project focuses on understanding how campaigns perform across the advertisin
 
 ### Facebook
 
-![Facebook Dashboard](facebook.png)
+![Facebook Dashboard](dashboard/facebook.png)
 
 ### Instagram
 
-![Instagram Dashboard](instagram.png)
+![Instagram Dashboard](dashboard/instagram.png)
 
 ## Dataset
 
